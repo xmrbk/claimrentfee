@@ -1,0 +1,17 @@
+    // <Html lang="en">
+    //   <Head>
+    //     <title>
+    //       DSCVR Claim your sol canvas
+    //     </title>
+    //     <meta name="dscvr:canvas:version" content="vNext" />
+    //     <meta name="og:image" content="https://claimyoursol.com/" />
+    //     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    //   </Head>
+    //   <body
+    //     style={{
+    //       backgroundColor: "#333"
+    //     }}>
+    //       <Main/>
+    //       <NextScript/>
+    //   </body>
+    // </Html>
